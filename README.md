@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Millie
 - 👀 I’m interested in Cyber Security, making VST plugins
 - 🌱 I’m currently learning Python, C++
-- 💞️ I’m looking to collaborate on any intersting project :)
+- 💞️ I’m looking to collaborate on any interesting project :)
 - 📫 How to reach me millie@milliedavidson.co
 
 <!---
