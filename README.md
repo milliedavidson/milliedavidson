@@ -1,7 +1,7 @@
 - 👋 Hello! I’m Millie
+- 👩‍💻 Audio Engineer turned Software Tinkerer!
 - 🎛️ I’m programming my first audio plugin
 - 🎶 I produce music too
-- 👩‍💻 Audio Engineer turned Software Tinkerer!
 - 📚 I’m currently learning Python & C++
 - 📫 How to reach me: millie@milliedavidson.co
 
