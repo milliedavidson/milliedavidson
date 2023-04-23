@@ -2,7 +2,6 @@
 
 - 👩‍💻 Audio Engineer turned Software Tinkerer!
 - 📚 I’m currently learning Python & C++
-- 🎶 I produce [music](https://soundcloud.com/mopp3t) too
 - 📫 How to reach me: millie@milliedavidson.co
 
 ## 🛠 Skills & Tools
