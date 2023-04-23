@@ -1,8 +1,12 @@
 ## 👋 Hello!
 
-- 👩‍💻 Audio Engineer turned Software Tinkerer!
+- 🧐 Cybersecurity Analyst 
+- 👩‍💻 Avid Software Tinkerer
+- 🤘 Producer of Industrial [music](https://soundcloud.com/mopp3t)
 - 📚 I’m currently learning Python & C++
 - 📫 How to reach me: millie@milliedavidson.co
+
+<br>
 
 ## 🛠 Skills & Tools
 
