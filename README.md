@@ -1,6 +1,5 @@
 ## 👋 Hello!
 
-- 🧐 Cybersecurity Analyst 
 - 👩‍💻 Avid Software Tinkerer
 - 🤘 Producer of Industrial [music](https://soundcloud.com/mopp3t)
 - 📚 I’m currently learning Python & C++
