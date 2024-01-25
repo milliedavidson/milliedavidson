@@ -1,8 +1,7 @@
 ## 👋 Hello!
 
-- 👩‍💻 Avid Software Tinkerer
-- 🤘 Producer of Industrial [music](https://soundcloud.com/mopp3t)
-- 📚 I’m currently learning Python & C++
+- 👩‍💻 Associate Software Engineer
+- 🤘 I love to produce [music](https://soundcloud.com/mopp3t)
 - 📫 How to reach me: millie@milliedavidson.co
 
 <br>
@@ -16,6 +15,5 @@
 [<img height="32" width="32" alt="CSS3 Logo" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/>]()
 [<img height="32" width="32" alt="JS Logo" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>]()
 [<img height="32" width="32" alt="Git" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/>]()
-[<img height="32" width="32" alt="Apple Logic Pro" src="https://cdn.worldvectorlogo.com/logos/apple.svg"/>]()
 
 <!--[<img height="32" width="32" alt="C++" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>]()-->
