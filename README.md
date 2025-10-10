@@ -15,7 +15,6 @@
 [<img height="50" width="50" alt="XCode logo" src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a6/1c/be/a61cbeb7-2285-7b14-b83d-e4fab0d59b34/Xcode-85-220-0-4-2x.png/1200x630bb.png"/>](XCode)
 
 [<img height="50" width="50" alt="Git logo" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/>](Git)
-
 [<img height="50" width="50" alt="Microsoft Azure logo" src="https://cdn.worldvectorlogo.com/logos/azure-2.svg"/>](MicrosoftAzure)
 [<img height="50" width="50" alt="Terraform logo" src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg"/>](Terraform)
 
