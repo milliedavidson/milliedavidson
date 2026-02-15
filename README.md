@@ -1,11 +1,11 @@
-## 👋 Hello!
+## Hello! 👋 
 
-- 👩‍💻 Software Engineer
-- 🤘 I also love [music](https://soundcloud.com/mopp3t)
-- 📫 How to reach me: millie@milliedavidson.com
+- Software Engineer 👩‍💻 
+- [Music nerd](https://soundcloud.com/mopp3t) 🤘 
+- millie@milliedavidson.com 📫 
 
 
-## 🛠 Skills & Tools
+## Skills & Tools 🛠 
 
 [<img height="50" width="50" alt="C# logo" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>](C#/.NET)
 [<img height="50" width="50" alt="C++ logo" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>](C++)
