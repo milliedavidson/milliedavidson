@@ -1,8 +1,11 @@
 ## 👋 Hello!
 
 👩‍💻 Software Engineer
+
 🤘 I also love [music](https://soundcloud.com/mopp3t)
+
 📫 How to reach me: millie@milliedavidson.com
+
 
 ## 🛠 Skills & Tools
 
